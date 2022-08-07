@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+#chart {
+  max-width: 650px;
+  margin: 35px auto;
+}
+
+#chart1 {
+    max-width: 650px;
+    margin: 100px auto;
+  }
+  
+#chart2 {
+    max-width: 650px;
+    margin: 35px auto;
+    margin: 100px auto;
+  }
+
+  #chart4 {
+    max-width: 650px;
+    margin: 35px auto;
+    margin: 100px auto;
+  }
+
+  #chart5 {
+    max-width: 650px;
+    margin: 35px auto;
+    margin: 100px auto;
+  }
+
+  #chart6 {
+    max-width: 650px;
+    margin: 35px auto;
+    margin: 100px auto;
+  }
+
+ 
+  #chart7{
+    max-width: 650px;
+    margin: 35px auto;
+    margin: 100px auto;
+  }
